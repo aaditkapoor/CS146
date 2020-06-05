@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec5b8ba6-08b0-42e9-813a-9271fbbe29b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XdmelfXlA86ww6Cir13Pp969gP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KthString">
+    <configuration name="Josephus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Josephus" />
+      <module name="Hw1" />
+      <option name="PROGRAM_PARAMETERS" value="20 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KthString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KthString" />
+      <module name="Hw1" />
+      <option name="PROGRAM_PARAMETERS" value="9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Parentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Parentheses" />
+      <module name="Hw1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickUnionPathCompressionUF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickUnionPathCompressionUF" />
+      <module name="Hw1" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/resources/mediumUF.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickUnionUF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickUnionUF" />
+      <module name="Hw1" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/resources/smallUF.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Parentheses" />
+      <item itemvalue="Application.QuickUnionUF" />
+      <item itemvalue="Application.QuickUnionPathCompressionUF" />
+      <item itemvalue="Application.Josephus" />
+      <item itemvalue="Application.KthString" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KthString" />
+        <item itemvalue="Application.Josephus" />
+        <item itemvalue="Application.QuickUnionUF" />
+        <item itemvalue="Application.QuickUnionPathCompressionUF" />
+        <item itemvalue="Application.Parentheses" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec5b8ba6-08b0-42e9-813a-9271fbbe29b9" name="Default Changelist" comment="" />
+      <created>1581384443919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581384443919</updated>
+      <workItem from="1581562653022" duration="15173000" />
+      <workItem from="1581636372343" duration="188000" />
+      <workItem from="1581636908512" duration="1643000" />
+      <workItem from="1581973423857" duration="6398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581997995788">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="184" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.812@0.23.1440.812" timestamp="1581997995788" />
+    <state x="184" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.814@0.23.1440.814" timestamp="1581631543020" />
+    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1581575057652">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser/0.23.1440.812@0.23.1440.812" timestamp="1581575057652" />
+    <state x="556" y="326" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581562667900">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="556" y="326" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.812@0.23.1440.812" timestamp="1581562667900" />
+    <state width="1398" height="259" key="GridCell.Tab.0.bottom" timestamp="1581998023658">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1581998023658" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1581636574426" />
+    <state width="1398" height="259" key="GridCell.Tab.0.center" timestamp="1581998023657">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1581998023657" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1581636574425" />
+    <state width="1398" height="259" key="GridCell.Tab.0.left" timestamp="1581998023656">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1581998023656" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1581636574424" />
+    <state width="1398" height="259" key="GridCell.Tab.0.right" timestamp="1581998023658">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1581998023658" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1581636574425" />
+    <state width="1398" height="259" key="GridCell.Tab.1.bottom" timestamp="1581998023660">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1581998023660" />
+    <state width="1398" height="259" key="GridCell.Tab.1.bottom/0.23.1440.814@0.23.1440.814" timestamp="1581636331065" />
+    <state width="1398" height="259" key="GridCell.Tab.1.center" timestamp="1581998023659">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1581998023659" />
+    <state width="1398" height="259" key="GridCell.Tab.1.center/0.23.1440.814@0.23.1440.814" timestamp="1581636331064" />
+    <state width="1398" height="259" key="GridCell.Tab.1.left" timestamp="1581998023659">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1581998023659" />
+    <state width="1398" height="259" key="GridCell.Tab.1.left/0.23.1440.814@0.23.1440.814" timestamp="1581636331064" />
+    <state width="1398" height="259" key="GridCell.Tab.1.right" timestamp="1581998023659">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1581998023659" />
+    <state width="1398" height="259" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1581636331064" />
+    <state x="138" y="23" width="1024" height="814" key="SettingsEditor" timestamp="1581569437153">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="138" y="23" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1581569437153" />
+    <state x="138" y="23" width="1024" height="814" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1581384574126" />
+    <state x="458" y="199" key="extract.method.dialog" timestamp="1581992879422">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="458" y="199" key="extract.method.dialog/0.23.1440.812@0.23.1440.812" timestamp="1581992879422" />
+  </component>
+</project>
